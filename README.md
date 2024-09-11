@@ -1,4 +1,4 @@
-I’m Mersad<br><br>🚀 Junior Backend Developer | Passionate about building efficient and scalable web applications using Django.<br>💡Currently Learning: Advanced Django techniques and performance optimization.<br>🛠️ Skills:<br>    Python & Django<br>    SQL & Database Management (PostgreSQL)<br>    Git & Version Control<br>
+I’m Mersad<br><br>🚀 Junior Backend Developer | Passionate about building efficient and scalable web applications using Django.<br>💡Currently Learning: Advanced Django techniques, performance optimization and DRF.<br>🛠️ Skills:<br>    Python & Django<br>    SQL & Database Management (PostgreSQL)<br>    Git & Version Control<br>
 
 
 # 💻 Tech Stack:
